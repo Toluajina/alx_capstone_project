@@ -13,9 +13,9 @@ To run the website locally, follow these steps:
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- HTML(Hypertext Markup Language): For creating the website's structure and content.
+- CSS(Cascading Style Sheets): For styling and layout design.
+- JavaScript: To add interactivity, dynamic behavior and validation.
 
 ## Goals
 
@@ -30,14 +30,15 @@ The goals of this project are:
 
 ### Key Features
 
-1. **Portfolio Showcase**: A collection of my projects and work, including descriptions, images, and links to project details.
+1. **Project Showcase**: A collection of my projects and work, including descriptions, images, and links to project details.
 2. **About Me**: A section where I introduce myself, share my background, and highlight my skills and interests.
-3. **Contact Information**: Users can easily reach out to me through a contact form or find links to my social media profiles.
-4. **Responsive Design**: The website is designed to work seamlessly on various devices and screen sizes.
+3. **Skills**: A section where I showcase my proficiency levels in various frontend and backend development technologies
+4. **Contact Information**: Users can easily reach out to me through a Email or find links to my social media profiles.
+5. **Responsive Design**: The website is designed to work on various devices and screen sizes.
 
 ### User Interaction
 
-- **Explore Portfolio**: Users can click on project cards to explore my portfolio.
+- **Explore Portfolio**: Users can click on project and the CV to explore my portfolio.
 - **Contact Me**: Users can use the provided contact Email or links to my social media profiles to reach out.
 - **Smooth User Experience**: The website offers a smooth and intuitive user experience with responsive design.
 
@@ -62,5 +63,6 @@ You can view the flowchart [here](https://drive.google.com/file/d/179rbEAvKeo82z
 
 - Email: [toluajina08@gmail.com](mailto:toluajina08@gmail.com)
 - LinkedIn: [Toluwalase Ajina](https://www.linkedin.com/)
+- GitHub: [ToluAjina](https://github.com/ToluAjina)
 
 Thank you for visiting my Personal Portfolio Website!
