@@ -9,3 +9,11 @@ To run the website locally, follow these steps:
 
 1. Clone this repository through https://github.com/Toluajina/alx_capstone_project.git to your local machine.
 2. Open the index.html file in your preferred web browser.
+
+<h2>Technologies Used</h2>
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
