@@ -17,3 +17,17 @@ To run the website locally, follow these steps:
 <li>CSS</li>
 <li>JavaScript</li>
 </ul>
+
+<h2>Flowchart</h2>
+
+<img
+src="./images/flowchart.png"
+alt="Flowchart"
+/>
+
+    ## Navigation
+
+- About: #about
+- Skills: #experience
+- Projects: #projects
+- Contact: #contact
