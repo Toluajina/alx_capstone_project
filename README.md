@@ -12,18 +12,13 @@ To run the website locally, follow these steps:
 
 <h2>Technologies Used</h2>
 
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-</ul>
+- HTML
+- CSS
+- JavaScript
 
 <h2>Flowchart</h2>
 
-<img
-src="./images/flowchart.png"
-alt="Flowchart"
-/>
+![Flowchart](./images/flowchart.png)
 
     ## Navigation
 
