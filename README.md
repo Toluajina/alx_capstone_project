@@ -20,9 +20,15 @@ To run the website locally, follow these steps:
 
 ![Flowchart](./images/flowchart.png)
 
-    ## Navigation
+<h2>Navigation</h2>
 
 - About: #about
-- Skills: #experience
+- Skills: #skills
 - Projects: #projects
 - Contact: #contact
+
+## Additional Information
+
+- This project was created as part of my personal portfolio to showcase my skills and projects.
+- Future enhancements may include adding a blog section, implementing a contact form, and integrating a backend for dynamic content.
+- Copyright © 2024 Toluwalase Ajina. All Rights Reserved.
