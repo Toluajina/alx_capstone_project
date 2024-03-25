@@ -1,31 +1,37 @@
-<h1>My Portfolio Website</h1>
+## My Portfolio Website
 
-<h2>Overview</h2>
+## Overview
 
 This repository contains the source code for my personal portfolio website. The website showcases my skills, projects, and contact information to potential employers or clients.
 
-<h2>Running Locally</h2>
+## Running Locally
+
 To run the website locally, follow these steps:
 
 1. Clone this repository through https://github.com/Toluajina/alx_capstone_project.git to your local machine.
 2. Open the index.html file in your preferred web browser.
 
-<h2>Technologies Used</h2>
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-<h2>Flowchart</h2>
+## Flowchart
 
-![Flowchart](./images/flowchart.png)
+![Flowchart](images/flowchart.png)
 
-<h2>Navigation</h2>
+## Navigation
 
 - About: #about
 - Skills: #skills
 - Projects: #projects
 - Contact: #contact
+
+## Contact Information
+
+- Email: [toluajina08@gmail.com](mailto:toluajina08@gmail.com)
+- LinkedIn: [Toluwalase Ajina](https://www.linkedin.com/)
 
 ## Additional Information
 
