@@ -43,7 +43,7 @@ The goals of this project are:
 
 ## Flowchart
 
-![flowchart](flowchart.png)
+You can view the flowchart [here](https://drive.google.com/file/d/179rbEAvKeo82zWRdDi4HVPxuD8IelJO7/view?usp=sharing).
 
 ## Navigation
 
